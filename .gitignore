@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+include/
+Lib/
+Scripts/
+tcl/
+natgeo.torrent
+drstone.torrent
